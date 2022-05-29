@@ -2,4 +2,3 @@ telethon
 requests_html
 requests
 bs4
-nhentaiapi
