@@ -1,4 +1,4 @@
-from nhentaiapi import nhentaiapi as nh
+from API import nhentaiapi as nh
 from telethon import events
 
 import Helper.formating_results as format
